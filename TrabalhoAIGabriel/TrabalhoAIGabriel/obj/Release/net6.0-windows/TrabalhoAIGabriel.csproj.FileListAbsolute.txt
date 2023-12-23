@@ -1,0 +1,9 @@
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Release\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache

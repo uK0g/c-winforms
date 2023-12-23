@@ -1,0 +1,133 @@
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\gabri\source\repos\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\gabri\Downloads\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\backup 20.11.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\gabri\Documents\Projetos Visual Studio\Primeiro ProjetoAI Backups\current project\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\Alexandre\Desktop\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.exe
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.deps.json
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.runtimeconfig.json
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\bin\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.InGame.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Menu.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.Settings.resources
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\refint\TrabalhoAIGabriel.dll
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.pdb
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\TrabalhoAIGabriel.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Projeto AIB 12CTC\teodoro\14.12.23\TrabalhoAIGabriel\TrabalhoAIGabriel\obj\Debug\net6.0-windows\ref\TrabalhoAIGabriel.dll

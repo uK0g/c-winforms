@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TrabalhoAIGabriel": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\gabri\\Documents\\Projetos Visual Studio\\Primeiro ProjetoAI Backups\\backup 20.11.23\\TrabalhoAIGabriel\\TrabalhoAIGabriel\\TrabalhoAIGabriel.csproj.user"
+    }
+  }
+}
